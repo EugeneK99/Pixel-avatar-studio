@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         pixel: ['"Press Start 2P"', 'monospace'],
+        sans: ['Inter', '"Noto Sans KR"', 'system-ui', 'sans-serif'],
       },
       colors: {
         ink: '#1a1625',
